@@ -2,7 +2,7 @@
 Hello! I'm Yagya 
 
 
-## 🌐 Socials:
+## 🌐 Linkedin👇:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yagyarajbhatt/) 
 
 # 💻 Tech Stack:
@@ -12,13 +12,13 @@ Hello! I'm Yagya
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yagya22&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagya22&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂don't laugh
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yagya22&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
