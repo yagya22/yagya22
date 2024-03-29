@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hello! I'm Yagya ---
-                                                  [![](https://visitcount.itsvg.in/api?id=yagya22&icon=5&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                   [![](https://visitcount.itsvg.in/api?id=yagya22&icon=5&color=0)](https://visitcount.itsvg.in)
+Hello! I'm Yagya                   
 
 
 ## 🌐 Linkedin👇:
