@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! I'm Yagya 
+Hello! I'm Yagya ---
+                                                  [![](https://visitcount.itsvg.in/api?id=yagya22&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Linkedin👇:
@@ -10,7 +11,6 @@ Hello! I'm Yagya
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yagya22&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yagya22&theme=vue-dark&hide_border=false)<br/>
-![]
 
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -18,7 +18,6 @@ Hello! I'm Yagya
 ### 😂don't laugh
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=yagya22&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
