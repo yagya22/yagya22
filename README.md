@@ -14,7 +14,7 @@ Hello! I'm Yagya
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂don't laugh
+### 😂Let's laugh
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
