@@ -15,8 +15,7 @@ Gracias por visitar mi GitHub,Que tengas un gran día :)
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Let's laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 
 
