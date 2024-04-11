@@ -1,5 +1,6 @@
 # 💫 About Me:                   ![](https://komarev.com/ghpvc/?username=yagya22&abbreviated=true&color=brightgreen)
-Hola!! I'm Yagya, a tech enthusiast currently in my 3rd Year of my BE CSE degree with a passion for exploring emerging trends and technologies. I thrive on coding, problem-solving, and have a keen interest in cybersecurity and web development. Collaborative by nature, I enjoy working in teams and believe in the power of collective innovation. Beyond my professional pursuits, you'll often find me immersed in music, which fuels my creativity, or engaged in invigorating exercise routines. I'm driven by a relentless desire to learn, grow, and make a positive impact in the ever-evolving tech landscape."                
+Hello I'm Yagya prefinal year student @NHCE, a tech enthusiast ,Explorer and a keen learner.
+Gracias por visitar mi GitHub,Que tengas un gran día :)              
 
 
 ## 🌐 Linkedin👇:
