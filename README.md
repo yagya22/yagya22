@@ -1,5 +1,5 @@
 # 💫 About Me:                   ![](https://komarev.com/ghpvc/?username=yagya22&abbreviated=true&color=brightgreen)
-Hello I'm Yagya prefinal year student @NHCE, a tech enthusiast ,Explorer and a keen learner.
+Hello I'm Yagya final year student @NHCE, a tech enthusiast ,Explorer and a keen learner.
 Gracias por visitar mi GitHub,Que tengas un gran día :)              
 
 
